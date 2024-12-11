@@ -1,12 +1,12 @@
 # Soccer Player Mention Finder
 
-A simple Streamlit application that allows users to find mentions of soccer players in YouTube video transcripts. The app retrieves the transcript of a specified video and searches for the player's name, providing the estimated timestamps of their mentions in the video.
+This project was designed to help a friend, but despite the name, it actually works to search for any word in a YouTube transcription. The application allows users to find mentions of soccer players or any other specified terms in YouTube video transcripts.
 
 ## Features
 
 - Retrieve YouTube video transcripts with timestamps.
-- Search for player names in the transcript.
-- Display the estimated time (minutes:seconds) when the player is mentioned.
+- Search for player names or any word in the transcript.
+- Display the estimated time (minutes:seconds) when the word is mentioned.
 - Supports multiple commentary languages.
 
 ## Requirements
